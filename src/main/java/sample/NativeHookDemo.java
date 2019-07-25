@@ -63,6 +63,8 @@ public class NativeHookDemo extends JFrame implements ActionListener, ItemListen
 	private JTextArea txtEventInfo;
 
 
+	
+
 	/** Logging */
 	private static final Logger logger = Logger.getLogger(GlobalScreen.class.getPackage().getName());
 
